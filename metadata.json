@@ -2,7 +2,8 @@
     "title": "Atomic Learning: Introduction",
     "slug": "atomic-learning-introduction",
     "authors": [
-        "chris-cooling"
+        "chris-cooling",
+        "dummy"
     ],
     "tags": [
         "atomic-learning",
@@ -10,10 +11,6 @@
     ],
     "duration": 0,
     "prerequisites": [
-        {
-            "slug": "dummy",
-            "description": "Haha, this is a dummy prerequisite"
-        }
     ],
     "related": [
         {
