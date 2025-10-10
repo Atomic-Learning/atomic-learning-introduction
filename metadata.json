@@ -11,6 +11,8 @@
     ],
     "duration": 0,
     "prerequisites": [
+        "slug": "dummy",
+        "description": "Haha"
     ],
     "related": [
         {
