@@ -11,8 +11,10 @@
     ],
     "duration": 0,
     "prerequisites": [
-        "slug": "dummy",
-        "description": "Haha"
+        {
+            "slug": "dummy",
+            "description": "Haha, this is a dummy prerequisite"
+        }
     ],
     "related": [
         {
