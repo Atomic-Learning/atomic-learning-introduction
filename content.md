@@ -4,15 +4,15 @@ Welcome to the Atomic Learning platform! This page is an introduction and minima
 
 # Content
 
-The *content* on the Atomic Learning platform is divided into a large number of different pages. Each page is intended to be the smallest useful unit of information. Each page will note which other pages are a *prerequisite* to it, forming a web of interconnected knowledge. As you work through the content, you should complete it, telling the platform you've completed it.
+The **content** on the Atomic Learning platform is divided into a large number of different pages. Each page is intended to be the smallest useful unit of information. Each page will note which other pages are a **prerequisite** to it, forming a web of interconnected knowledge. As you work through the content, you should complete it, telling the platform you've completed it.
 
 # Goals and Your Queue
 
-Within the platform you can designate a piece of content as a *Goal*. This tells the system that you intend to complete this content and want to track your progress towards it. The platform keeps track of your Goals and the order in which you want to complete them. It uses this to form your *Queue*. This is a list of content that will take you through the prerequisites you need to complete your Goals, and the Goals themselves. Your Queue will exclude any content that you've already completed, reducing repetition as you work toward your Goals.
+Within the platform you can designate a piece of content as a **Goal**. This tells the system that you intend to complete this content and want to track your progress towards it. The platform keeps track of your Goals and the order in which you want to complete them. It uses this to form your *Queue*. This is a list of content that will take you through the prerequisites you need to complete your Goals, and the Goals themselves. Your Queue will exclude any content that you've already completed, reducing repetition as you work toward your Goals.
 
 # Learning Paths
 
-A *Learning Path* is a predefined sequence of Goals that takes you through a particular topic. Learning paths are created by other users, including academics, teachers and other experts in the field. You can choose to follow a Learning Path, or you can populate your Queue manually by adding pages to it which are of interest to you.
+A **Learning Path** is a predefined sequence of Goals that takes you through a particular topic. Learning paths are created by other users, including academics, teachers and other experts in the field. You can choose to follow a Learning Path, or you can populate your Queue manually by adding pages to it which are of interest to you.
 
 # Navigating Content Pages
 
